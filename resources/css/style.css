@@ -66,7 +66,7 @@ header nav ul{
 
 header nav ul a {
   flex-wrap: wrap;
-  font-weight: 600;
+  font-weight: 700;
   padding-left: 1rem;
   color: #1B15E5;
 }
@@ -339,7 +339,7 @@ footer {
 }
 
 footer .copyright span {
-  font-family: "Juluis Sans One";
+  font-family: serif;
 }
 
 
@@ -353,7 +353,7 @@ footer nav {
 }
 
 footer nav a {
-  font-family: "Juluis Sans One";
+  font-family: serif;
   padding-left: 1rem;
 }
 
